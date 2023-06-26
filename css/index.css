@@ -1,50 +1,55 @@
-    body{
+body {
     /*background-image: url(../imagem/fundo/vermesolido.jpg);*/
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     text-align: center;
 }
-    h1{
+
+h1 {
     text-align: center;
     color: black;
 }
-    h2{
-    background-color:#FFFFEE;
+
+h2 {
+    background-color: #FFFFEE;
     text-align: center;
     color: black;
 }
-    title{
-        text-align: center;
- }
- .card-meu{
+
+title {
+    text-align: center;
+}
+
+.card-meu {
     border: 0 none 0;
     border-style: none;
-    margin-top: 15px;
-    position: relative;
-    left: 950px;
-    transform: translateX(-50%);
+    margin: 15px auto;
     max-width: 500px;
 }
-.card-text{
+
+.card-text {
     color: rgb(255, 255, 255);
     text-align: center;
 }
-h5{
+
+h5 {
     color: aqua;
 }
-.card-title{
+
+.card-title {
     color: rgb(255, 255, 255);
 }
-.btn-primary{
+
+.btn-primary {
     color: white;
-    background-color: black;
-    
-}
-.carousel-control-prev-icon{
     background-color: black;
 }
 
-.carousel-control-next-icon{
+.carousel-control-prev-icon {
+    background-color: black;
+}
+
+.carousel-control-next-icon {
     background-color: black;
 }
